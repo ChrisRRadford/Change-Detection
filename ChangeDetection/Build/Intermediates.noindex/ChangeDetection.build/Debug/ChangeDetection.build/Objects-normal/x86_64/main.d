@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/chrisradford/Documents/School/Masters/Research/ChangeDetection/ChangeDetection/main.cpp \
+  /Users/chrisradford/Documents/GitHub/Change-Detection/ChangeDetection/ChangeDetection/main.cpp \
   /usr/local/include/opencv2/opencv.hpp \
   /usr/local/include/opencv2/opencv_modules.hpp \
   /usr/local/include/opencv2/core.hpp \
