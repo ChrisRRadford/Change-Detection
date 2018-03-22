@@ -270,6 +270,10 @@ void newFunctionTest(){
     //We are going to make a
 }
 
+void secondFunctionTest(){
+    //We are going to make a
+}
+
 int main(int argc, const char * argv[]) {
     //declared variables
     vector<Vec4i> hierarchy;
